@@ -69,6 +69,30 @@
 		   <p id="leave-a-comment">Join the discussion for this article on aaathis ticket</a>. Comments appear on this page instantly.</p>
 		</div>
 
+		<section class="intro">
+
+			<div class="wrap">
+
+				<h1>{{ page.title }}</h1>
+				<p>{{ page.date | date_to_long_string }}</p>
+
+			</div>
+
+		</section>
+
+		<section class="single">
+
+			<div class="wrap">
+
+				{{ page.content }}
+
+				{% if page.comments_id %}
+					{% include comments.html %}
+				{% endif %}
+			</div>
+
+		</section>
+
 			<script>
 			const GH_API_URL = 'https://api.github.com/repos/hugodovs/hugodovs.github.com/issues/test/comments?client_id=a5f272733f1e7ccd5705&client_secret= 1c82faaa5f41b1a0a40de8f38d0a927e71bb6d34';
 
