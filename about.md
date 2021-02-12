@@ -12,32 +12,34 @@ permalink: /about/
         <div class="col-lg-6 col-md-12">
           <div class="card-body">
             <div class="h4 mt-0 title">About</div>
-            <p>Hello! I am Hugo Siqueira Gomes. Bla bla bla.</p>
-            <p>BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA BLA . <a href="https://templateflip.com/templates/creative-cv/" target="_blank">Learn More</a></p>
+              <p>Hi! I am Hugo! I'm a machine learning scientist, software engineer, and data scientist.</p>
+              <p>The truth is, I love data, and that's what I'm always searching for in every problem that I face. I do believe that nearly any human decision would be better if we believe in data. I'm still searching for the Master Algorithm. I do believe in a world where we will open our eyes one day, and everything will be done automatically.</p>
+              <p>In my spare time, I enjoy having philosophical conversations, listening to video game songs, and learning certain meaningless things like typing quicker.</p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
           <div class="card-body">
-            <div class="h4 mt-0 title">Basic Information</div>
-            <div class="row">
-              <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
-              <div class="col-sm-8">24</div>
-            </div>
+            <div class="h4 mt-0 title">Personal Information</div>
+            <br>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
-              <div class="col-sm-8">anthony@company.com</div>
+              <div class="col-sm-8">hugodovs@gmail.com</div>
             </div>
             <div class="row mt-3">
-              <div class="col-sm-4"><strong class="text-uppercase">Phone:</strong></div>
-              <div class="col-sm-8">+1718-111-0011</div>
+              <div class="col-sm-4"><strong class="text-uppercase">Mobile Phone:</strong></div>
+              <div class="col-sm-8">+1 (581) 980-5854</div>
             </div>
             <div class="row mt-3">
-              <div class="col-sm-4"><strong class="text-uppercase">Address:</strong></div>
-              <div class="col-sm-8">140, City Center, New York, U.S.A</div>
+              <div class="col-sm-4"><strong class="text-uppercase">Nationality:</strong></div>
+              <div class="col-sm-8">Brazilian</div>
+            </div>
+            <div class="row mt-3">
+              <div class="col-sm-4"><strong class="text-uppercase">Location:</strong></div>
+              <div class="col-sm-8">Vancouver, British Columbia, Canada</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Language:</strong></div>
-              <div class="col-sm-8">English, German, French</div>
+              <div class="col-sm-8">English, Portuguese</div>
             </div>
           </div>
         </div>
