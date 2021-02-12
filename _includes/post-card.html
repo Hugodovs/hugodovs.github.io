@@ -1,0 +1,23 @@
+
+<div class="card">
+    <div class="row">
+        <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <img class="" src="{{ post.image }}" alt="{{ post.title }}">
+
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+            <div class="card-body">
+                <div class="h3">{{ post.title }}</div>
+                <p>{{post.excerpt}}</p>
+                <p>
+                    <i class="fa fa-tags"></i> 
+                    Tags: 
+                    {% for tag in post.tags %}
+                    <a href=""><span class="badge badge-info">{{tag}}</span></a> 
+                    {% endfor %}
+                </p>
+                <small class="text-muted">Published: {{ post.date | date: "%b %-d, %Y" }}</small>
+            </div>
+        </div>
+    </div>
+</div>

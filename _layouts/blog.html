@@ -1,0 +1,31 @@
+---
+layout: resume
+---
+<div>
+  <div class="section" id="experience">
+    <div class="container cc-experience">
+      <div class="h4 text-center mb-4 title"></div>
+
+        <div>
+            {% include pagination.html %}
+        </div>
+
+        {% for post in paginator.posts %}
+        <div>
+          {% include post-card.html %}
+        </div>
+        {% endfor %}
+
+        <div>
+            {% include pagination.html %}
+        </div>
+
+        <!--
+        <div>
+            {% include subscribe.html %}
+        </div>
+        -->
+
+    </div>
+  </div>
+</div> 
