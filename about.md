@@ -4,6 +4,10 @@ layout: resume
 permalink: /about/
 ---
 
+li {
+    border: 1px solid grey;
+}
+
 
 <div class="section" id="about">
   <div class="container">
@@ -111,7 +115,7 @@ permalink: /about/
   <div class="container">
     <div class="row">
       <div class="col-md-6 ml-auto mr-auto">
-        <div class="h4 text-center mb-4 title">Portfolio</div>
+        <div class="h4 text-center mb-4 title">Selected Projects</div>
         <div class="nav-align-center">
           <ul class="nav nav-pills nav-pills-primary" role="tablist">
             <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#web-development" role="tablist"><i class="fa fa-laptop" aria-hidden="true"></i></a></li>
@@ -303,14 +307,20 @@ permalink: /about/
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>March 2016 - Present</p>
-            <div class="h5">CreativeM</div>
+            <div class="h5">Deeper Systems</div>
+            <p>Nov 2017 - May 2018</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Front End Developer</div>
-            <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+            <div style="column-count: 2;">
+              <div class="h5">Machine Learning Scientist</div>
+              <div class="h5">Nevada, USA (Remote)</div>
+            </div>
+            <p>
+              • Implemented in python an easily manageable infrastructure for image processing in cloud servers, which reduced totalsprocess time by 30%.<br>
+              • Automatized expensive and time-consuming tasks (10TB training data for annotation) using SOTA machine-learning anddeep learning methods. <br>
+              • Presented key findings for end-customers to the team leader and wrote the requested executive report outlining the strategy and value proposition.<br></p>
           </div>
         </div>
       </div>
@@ -319,30 +329,21 @@ permalink: /about/
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>April 2014 - March 2016</p>
-            <div class="h5">WebNote</div>
+            <div class="h5">General Electric <br> Global Research </div>
+            <p>Nov 2016 - Nov 2017</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Web Developer</div>
-            <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="card">
-      <div class="row">
-        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-          <div class="card-body cc-experience-header">
-            <p>April 2013 - February 2014</p>
-            <div class="h5">WEBM</div>
-          </div>
-        </div>
-        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
-          <div class="card-body">
-            <div class="h5">Intern</div>
-            <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+            <div style="column-count: 2;">
+              <div class="h5">Machine Learning Engineer Internship</div>
+              <div class="h5">Rio de Janeiro, Brazil</div>
+            </div><br>
+            <p>
+              • Deployed 100+ wearable applications that gather training data and send to docker containers.<br>
+              • Gathered and Wrangled 1TB data for Human Activity Recognition system that was previously inaccessible datasets.<br>
+              • Improved 50% accuracy and 400% speed for predictions to end clients to track impact at real-time.<br>
+              • Keywords: Deep learning, Time Series, Docker, Python, C++ and Javascript</p>
           </div>
         </div>
       </div>
