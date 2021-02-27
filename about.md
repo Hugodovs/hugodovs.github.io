@@ -245,57 +245,73 @@ li {
 </div>
 <div class="section" id="skill">
   <div class="container">
-    <div class="h4 text-center mb-4 title">Professional Skills</div>
+    <div class="h4 text-center mb-4 title">Skills</div>
     <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
       <div class="card-body">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">HTML</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">CSS</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">JavaScript</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">SASS</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">Bootstrap</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">Photoshop</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">70%</span>
-              </div>
-            </div>
-          </div>
-        </div>
+        <div class="progress-container progress-primary"><span class="progress-badge"><b>Programming Languages:</b></span>
+        <button type="button" class="btn btn-primary btn-sm ">Python</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">R</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">C++</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">C#</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Java</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Javascript</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">HTML</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">CSS</button>
+        <br>
+        <br>
+        <div class="progress-container progress-primary"><span class="progress-badge"><b>Machine Learning:</b></span>
+        <button type="button" class="btn btn-primary btn-sm">Deep Learning</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Reinforcement Learning</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Neuroevolution</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Pytorch</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Tensorflow</button>
+        <br>
+        <br>
+        <div class="progress-container progress-primary"><span class="progress-badge"><b>Data Science:</b></span>
+        <button type="button" class="btn btn-primary btn-sm">A/B testing</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">ETL</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Time series</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Experimental Design</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Hypothesis Testing</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Statistical Learning</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Data Science Pipeline</button>
+        <br>
+        <br>
+        <div class="progress-container progress-primary"><span class="progress-badge"><b>Miscellaneous Knowledge:</b></span>
+        <button type="button" class="btn btn-primary btn-sm">Data Structure</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Software Design</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">AWS</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">MongoDB</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">SQL</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Git</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Parallel Processing</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Hadoop</button>
+        <b>|</b>
+        <button type="button" class="btn btn-primary btn-sm">Spark</button>
       </div>
     </div>
   </div>
@@ -363,11 +379,11 @@ li {
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Master in Electrical Engineering</div>
-            <p class="category">Université Laval</p>
+            <div class="h5">Master in Artificial Intelligence</div>
+            <p class="category">Université Laval, Department of Electrical Engineering and Computer Engineering</p>
             <p>• Thesis: Meta Learning Population-Based Algorithms<br>
                • Mitacs Accelerate Fellowship<br>
-               • Relevant Coursework: Machine Learning, Data Science Statistics, Big Data Analytics
+               • Relevant Coursework: Machine Learning, Reinforcement Learning, Big Data Analytics
             </p>
           </div>
         </div>
@@ -384,7 +400,7 @@ li {
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Bachelor in Computer Science</div>
-            <p class="category">Federal University of Rio de Janeiro</p>
+            <p class="category">Federal University of Rio de Janeiro, Department of Computer Science</p>
             <p>• Thesis: Towards Deep Q-Caching<br>
                • National Council of Scientific Researches Scholarship, Institutional Scientific Initiation Scholarship
             </p>
