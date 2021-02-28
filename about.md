@@ -16,9 +16,9 @@ li {
         <div class="col-lg-6 col-md-12">
           <div class="card-body">
             <div class="h4 mt-0 title">About</div>
-              <p>Hi! I am Hugo! I'm a machine learning scientist, software engineer, and data scientist.</p>
-              <p>The truth is, I love data, and that's what I'm always searching for in every problem that I face. I do believe that nearly any human decision would be better if we believe in data. I'm still searching for the Master Algorithm. I do believe in a world where we will open our eyes one day, and everything will be done automatically.</p>
-              <p>In my spare time, I enjoy having philosophical conversations, listening to video game songs, and learning certain meaningless things like typing quicker.</p>
+            <p>Hi! I am Hugo! I'm a machine learning scientist, software engineer, and data scientist.</p>
+            <p>I have a bachelor's degree in computer science and a master's in artificial intelligence. The truth is, I love data, and that's what I'm always searching for in every problem that I face. I do believe that nearly any human decision would be better if we believe in data. </p>
+            <p>In my spare time, I enjoy having philosophical conversations, listening to video game songs, and learning certain meaningless things like typing quicker.</p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
