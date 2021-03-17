@@ -8,7 +8,6 @@ li {
     border: 1px solid grey;
 }
 
-
 <div class="section" id="about">
   <div class="container">
     <div class="card" data-aos="fade-up" data-aos-offset="10">
@@ -247,7 +246,62 @@ li {
   <div class="container">
     <div class="h4 text-center mb-4 title">Skills</div>
     <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-      <div class="card-body">
+      <div class="row">
+        <div class="column" style="text-align: center;float: left;width: 25%;padding: 5px;height: 500px;">
+          <div class="card-body">
+            <div class="progress-container progress-primary"><span class="progress-badge"><b>Programming Languages</b></span><br> 
+              <button type="button" class="btn btn-primary btn-sm ">Python</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">R</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">C++</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">C#</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Java</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Javascript</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">HTML</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">CSS</button><br>
+            </div>
+          </div>
+        </div>
+        <div class="column" style="text-align: center;float: left;width: 20%;padding: 5px;height: 500px;">
+          <div class="card-body">
+            <div class="progress-container progress-primary"><span class="progress-badge"><b>Machine Learning</b></span><br> 
+              <button type="button" class="btn btn-primary btn-sm ">Deep Learning</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Reinforcement Learning</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Neuroevolution</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Pytorch</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Tensorflow</button><br>
+            </div>
+          </div>
+        </div>
+        <div class="column" style="text-align: center;float: left;width: 20%;padding: 5px;height: 500px;">
+          <div class="card-body">
+            <div class="progress-container progress-primary"><span class="progress-badge"><b>Data Science</b></span><br> 
+              <button type="button" class="btn btn-primary btn-sm ">A/B testing</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">ETL</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Time series</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Experimental Design</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Hypothesis Testing</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Statistical Learning</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Data Science Pipeline</button><br>
+            </div>
+          </div>
+        </div>
+        <div class="column" style="text-align: center;float: left;width: 35%;padding: 5px;height: 500px;">
+          <div class="card-body">
+            <div class="progress-container progress-primary"><span class="progress-badge"><b>Miscellaneous Knowledge</b></span><br> 
+              <button type="button" class="btn btn-primary btn-sm ">Data Structure</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Software Design</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">AWS</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">MongoDB</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">SQL</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Git</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Parallel Processing</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Hadoop</button><br>
+              <button type="button" class="btn btn-primary btn-sm ">Spark</button><br>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--div class="card-body">
         <div class="progress-container progress-primary"><span class="progress-badge"><b>Programming Languages:</b></span>
         <button type="button" class="btn btn-primary btn-sm ">Python</button>
         <b>|</b>
@@ -313,7 +367,7 @@ li {
         <b>|</b>
         <button type="button" class="btn btn-primary btn-sm">Spark</button>
       </div>
-    </div>
+    </div-->
   </div>
 </div>
 <div class="section" id="experience">
