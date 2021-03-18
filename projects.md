@@ -1,6 +1,7 @@
 ---
 title: Project
 layout: resume
+permalink: /projects/
 ---
 
 
