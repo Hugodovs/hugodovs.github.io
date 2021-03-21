@@ -2597,10 +2597,10 @@ body {
   .navbar .button-dropdown .navbar-toggler-bar:nth-child(2) {
     width: 17px; }
   .navbar.navbar-transparent {
-    background-color: transparent !important;
-    box-shadow: none;
-    color: #000000;
-    padding-top: 20px; }
+    /*abackground-color: transparent !important;
+    abox-shadow: none;
+    acolor: #FFFFFF;
+    apadding-top: 20px;*/ }
   .navbar.bg-white:not(.navbar-transparent) a:not(.dropdown-item) {
     color: #888; }
     .navbar.bg-white:not(.navbar-transparent) a:not(.dropdown-item).disabled {
