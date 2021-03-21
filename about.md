@@ -53,61 +53,65 @@ li {
 <div class="section" id="reference">
   <div class="container cc-reference">
     <div class="h4 mb-4 text-center title">Selected Papers</div>
-    <div class="card" data-aos="zoom-in">
-      <div class="carousel slide" id="cc-Indicators" data-ride="carousel">
-        <ol class="carousel-indicators">
-          <li class="active" data-target="#cc-Indicators" data-slide-to="0"></li>
-          <li data-target="#cc-Indicators" data-slide-to="1"></li>
-        </ol>
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-lg-2 col-md-2 cc-reference-header"><img src="/assets/images/page1_MetaLearningBlackBoxPopulationBasedOptimizers.jpg" alt="Image"/>
-                <div class="h5 pt-2">ARXIV</div>
-                <p class="category">2021</p>
-              </div>
-              <div class="col-lg-10 col-md-9">
-                <p style="text-align:justify"> 
-                    Title: <b><a target="_blank" style="color: black; cursor: pointer;" href="#">Meta Learning Black-Box Population-Based Optimizers.</a>
-                    </b><br>
-                    Authors: <u> Hugo Siqueira Gomes </u>, Benjamin Léger, Christian Gagné
-                    <br> The no free lunch theorem states that no model is better suited to every problem. 
-                     A question that arises from this is how to design methods that propose optimizers 
-                     tailored to specific problems achieving state-of-the-art performance. 
-                     This paper addresses this issue by proposing the use of meta-learning to infer 
-                     population-based black-box optimizers that can automatically adapt to specific 
-                     classes of problems. We suggest a general modeling of population-based algorithms 
-                     that result in Learning-to-Optimize POMDP (LTO-POMDP), a meta-learning framework based on a 
-                     specific partially...
-                </p> 
+      <div class="" data-aos="zoom-in">
+        <div id="selectedPapersIndicator" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#selectedPapersIndicator" data-slide-to="0" class="active"></li>
+            <li data-target="#selectedPapersIndicator" data-slide-to="1"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-lg-2 col-md-2 cc-reference-header" style="text-align:center;"><img src="/assets/images/about_selectedpaper_1.png" alt="Image"/>
+                  <div style="text-align:center;" class="h5">arXiv (cs.AI)</div>
+                  <p style="text-align:center;" class="category">2021</p>
+                </div>
+                <div class="col-lg-10 col-md-10" style="text-align:left;">
+                  <p style="font-weight:bold;"> 
+                    <a target="_blank" style="color: black; cursor: pointer;" href="https://arxiv.org/abs/2103.03526">Meta Learning Black-Box Population-Based Optimizers</a>
+                  </p> 
+                  <p> 
+                       <u>Hugo Siqueira Gomes </u>, Benjamin Léger, Christian Gagné
+                  </p> 
+                  <p> 
+                    The no free lunch theorem states that no model is better 
+                    suited to every problem. A question that arises from this 
+                    is how to design methods that propose optimizers tailored 
+                    to specific problems achieving state-of-the-art 
+                    performance. This paper addresses this issue by proposing 
+                    the use of meta-learning ...
+                  </p> 
+                </div>
               </div>
             </div>
-          </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-lg-2 col-md-2 cc-reference-header"><img src="/assets/images/page1_UnsupervisedTemperatureScaling.jpg" alt="Image"/>
-                <div class="h5 pt-2">ICML UDL</div>
-                <p class="category">2019</p>
-              </div>
-              <div class="col-lg-10 col-md-9">
-                <p> 
-                    Title: <b><a target="_blank" style="color: black; cursor: pointer;" href="https://sites.google.com/view/udlworkshop2019/accepted-papers">Unsupervised Temperature Scaling: Post-Processing Unsupervised Calibration of Deep Models Decisions.</a>
-                    </b><br>
-                    Authors: Azadeh Sadat Mozafari, <u> Hugo Siqueira Gomes </u> , Wilson Leão, Christian Gagné 
-                    <br> 
-                    Abstract: The great performances of deep learning are undeniable, with impressive results over a wide range
-                    of tasks. However, the output confidence of these models is usually not well-calibrated, which can
-                    be an issue for applications where confidence on the decisions is central to bring trust and reliability 
-                    (e.g., autonomous driving or medical diagnosis). For models using  For models using softmax at the last layer, 
-                    Temperature Scaling (TS) is a state-of-the-art calibration method, with low time and memory complexity as well as 
-                    demonstrated effectiveness. TS relies on a T parameter ...
-                </p>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-lg-2 col-md-2 cc-reference-header" style="text-align:center;"><img src="/assets/images/about_selectedpaper_2.png" alt="Image"/>
+                  <div style="text-align:center;" class="h5">ICML UDL</div>
+                  <p style="text-align:center;" class="category">2019</p>
+                </div>
+                <div class="col-lg-10 col-md-10" style="text-align:left;">
+                  <p style="font-weight:bold;"> 
+                    <a target="_blank" style="color: black; cursor: pointer;" href="https://sites.google.com/view/udlworkshop2019/accepted-papers">
+                      Unsupervised Temperature Scaling: Post-Processing Unsupervised Calibration of Deep Models Decisions
+                    </a>
+                  </p> 
+                  <p> 
+                       Azadeh Sadat Mozafari, <u>Hugo Siqueira Gomes</u> , Wilson Leão, Christian Gagné
+                  </p> 
+                  <p> 
+                    The great performances of deep learning are undeniable, 
+                    with impressive results over a wide range of tasks. 
+                    However, the output confidence of these models is usually 
+                    not well-calibrated, which can be an issue for applications
+                     where confidence ...
+                  </p> 
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
   </div>
 </div>
 <div class="section" id="portfolio">
@@ -245,129 +249,62 @@ li {
 <div class="section" id="skill">
   <div class="container">
     <div class="h4 text-center mb-4 title">Skills</div>
-    <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-      <div class="row">
-        <div class="column" style="text-align: center;float: left;width: 25%;padding: 5px;height: 500px;">
-          <div class="card-body">
-            <div class="progress-container progress-primary"><span class="progress-badge"><b>Programming Languages</b></span><br> 
-              <button type="button" class="btn btn-primary btn-sm ">Python</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">R</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">C++</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">C#</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Java</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Javascript</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">HTML</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">CSS</button><br>
-            </div>
-          </div>
-        </div>
-        <div class="column" style="text-align: center;float: left;width: 20%;padding: 5px;height: 500px;">
-          <div class="card-body">
-            <div class="progress-container progress-primary"><span class="progress-badge"><b>Machine Learning</b></span><br> 
-              <button type="button" class="btn btn-primary btn-sm ">Deep Learning</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Reinforcement Learning</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Neuroevolution</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Pytorch</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Tensorflow</button><br>
-            </div>
-          </div>
-        </div>
-        <div class="column" style="text-align: center;float: left;width: 20%;padding: 5px;height: 500px;">
-          <div class="card-body">
-            <div class="progress-container progress-primary"><span class="progress-badge"><b>Data Science</b></span><br> 
-              <button type="button" class="btn btn-primary btn-sm ">A/B testing</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">ETL</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Time series</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Experimental Design</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Hypothesis Testing</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Statistical Learning</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Data Science Pipeline</button><br>
-            </div>
-          </div>
-        </div>
-        <div class="column" style="text-align: center;float: left;width: 35%;padding: 5px;height: 500px;">
-          <div class="card-body">
-            <div class="progress-container progress-primary"><span class="progress-badge"><b>Miscellaneous Knowledge</b></span><br> 
-              <button type="button" class="btn btn-primary btn-sm ">Data Structure</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Software Design</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">AWS</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">MongoDB</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">SQL</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Git</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Parallel Processing</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Hadoop</button><br>
-              <button type="button" class="btn btn-primary btn-sm ">Spark</button><br>
-            </div>
+    <div class="row">
+      <div class="col" style="text-align: center;">
+        <div class="card-body">
+          <div class="progress-container progress-primary"><span class="progress-badge"><b>Programming Languages</b></span><br> 
+            <button type="button" class="btn btn-primary btn-sm ">Python</button>
+            <button type="button" class="btn btn-primary btn-sm ">R</button>
+            <button type="button" class="btn btn-primary btn-sm ">C++</button>
+            <button type="button" class="btn btn-primary btn-sm ">C#</button>
+            <button type="button" class="btn btn-primary btn-sm ">Java</button>
+            <button type="button" class="btn btn-primary btn-sm ">Javascript</button>
+            <button type="button" class="btn btn-primary btn-sm ">HTML</button>
+            <button type="button" class="btn btn-primary btn-sm ">CSS</button>
           </div>
         </div>
       </div>
-      <!--div class="card-body">
-        <div class="progress-container progress-primary"><span class="progress-badge"><b>Programming Languages:</b></span>
-        <button type="button" class="btn btn-primary btn-sm ">Python</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">R</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">C++</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">C#</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Java</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Javascript</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">HTML</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">CSS</button>
-        <br>
-        <br>
-        <div class="progress-container progress-primary"><span class="progress-badge"><b>Machine Learning:</b></span>
-        <button type="button" class="btn btn-primary btn-sm">Deep Learning</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Reinforcement Learning</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Neuroevolution</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Pytorch</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Tensorflow</button>
-        <br>
-        <br>
-        <div class="progress-container progress-primary"><span class="progress-badge"><b>Data Science:</b></span>
-        <button type="button" class="btn btn-primary btn-sm">A/B testing</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">ETL</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Time series</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Experimental Design</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Hypothesis Testing</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Statistical Learning</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Data Science Pipeline</button>
-        <br>
-        <br>
-        <div class="progress-container progress-primary"><span class="progress-badge"><b>Miscellaneous Knowledge:</b></span>
-        <button type="button" class="btn btn-primary btn-sm">Data Structure</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Software Design</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">AWS</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">MongoDB</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">SQL</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Git</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Parallel Processing</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Hadoop</button>
-        <b>|</b>
-        <button type="button" class="btn btn-primary btn-sm">Spark</button>
+      <div class="col" style="text-align: center;">
+        <div class="card-body">
+          <div class="progress-container progress-primary"><span class="progress-badge"><b>Machine Learning</b></span><br> 
+            <button type="button" class="btn btn-primary btn-sm ">Deep Learning</button>
+            <button type="button" class="btn btn-primary btn-sm ">Reinforcement Learning</button>
+            <button type="button" class="btn btn-primary btn-sm ">Neuroevolution</button>
+            <button type="button" class="btn btn-primary btn-sm ">Pytorch</button>
+            <button type="button" class="btn btn-primary btn-sm ">Tensorflow</button>
+          </div>
+        </div>
       </div>
-    </div-->
+      <div class="w-100"></div>
+      <div class="col" style="text-align: center;">
+        <div class="card-body">
+          <div class="progress-container progress-primary"><span class="progress-badge"><b>Data Science</b></span><br> 
+            <button type="button" class="btn btn-primary btn-sm ">A/B testing</button>
+            <button type="button" class="btn btn-primary btn-sm ">ETL</button>
+            <button type="button" class="btn btn-primary btn-sm ">Time series</button>
+            <button type="button" class="btn btn-primary btn-sm ">Experimental Design</button>
+            <button type="button" class="btn btn-primary btn-sm ">Hypothesis Testing</button>
+            <button type="button" class="btn btn-primary btn-sm ">Statistical Learning</button>
+            <button type="button" class="btn btn-primary btn-sm ">Data Science Pipeline</button>
+          </div>
+        </div>
+      </div>
+      <div class="col" style="text-align: center;">
+        <div class="card-body">
+          <div class="progress-container progress-primary"><span class="progress-badge"><b>Miscellaneous Knowledge</b></span><br> 
+            <button type="button" class="btn btn-primary btn-sm ">Data Structure</button>
+            <button type="button" class="btn btn-primary btn-sm ">Software Design</button>
+            <button type="button" class="btn btn-primary btn-sm ">AWS</button>
+            <button type="button" class="btn btn-primary btn-sm ">MongoDB</button>
+            <button type="button" class="btn btn-primary btn-sm ">SQL</button>
+            <button type="button" class="btn btn-primary btn-sm ">Git</button>
+            <button type="button" class="btn btn-primary btn-sm ">Parallel Processing</button>
+            <button type="button" class="btn btn-primary btn-sm ">Hadoop</button>
+            <button type="button" class="btn btn-primary btn-sm ">Spark</button>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 <div class="section" id="experience">
