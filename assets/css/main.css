@@ -2586,8 +2586,6 @@ body {
     padding-bottom: 0.5rem;
     line-height: 1.625rem; }
   .navbar .navbar-toggler {
-    width: 37px;
-    height: 27px;
     outline: 0;
     cursor: pointer; }
     .navbar .navbar-toggler.navbar-toggler-left {
@@ -2601,7 +2599,7 @@ body {
   .navbar.navbar-transparent {
     background-color: transparent !important;
     box-shadow: none;
-    color: #FFFFFF;
+    color: #000000;
     padding-top: 20px; }
   .navbar.bg-white:not(.navbar-transparent) a:not(.dropdown-item) {
     color: #888; }
