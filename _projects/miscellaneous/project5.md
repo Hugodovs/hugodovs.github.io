@@ -1,5 +1,5 @@
 ---
-title: Product 5
+title: project5
 topic: miscellaneous
 product_code: ABC125
 layout: resume
@@ -12,6 +12,7 @@ features:
     - label: Available in multiple sizes
       icon: fa-fighter-jet
 rating: 3
+permalink: /projects/project5/
 ---
 
 This is the content about the product.

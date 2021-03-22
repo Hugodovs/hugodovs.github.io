@@ -1,11 +1,11 @@
 ---
-title: Product 2
-topic: machine_learning_and_data_science
-description: This is a product description
-product_code: ABC124
+title: project4
+topic: game_development
+subtitle: Product 2 tagline here
+product_code: ABC123
 layout: resume
 image: https://via.placeholder.com/640x480
-price: £1.99 + VAT
+price: £0.99 + VAT
 features:
     - label: Great addition to any home
       icon: fa-location-arrow
@@ -14,6 +14,7 @@ features:
     - label: Available in multiple sizes
       icon: fa-fighter-jet
 rating: 3
+permalink: /projects/project4/
 ---
 
 This is the content about the product.

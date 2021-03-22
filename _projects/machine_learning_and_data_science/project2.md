@@ -1,7 +1,6 @@
 ---
-title: Product 1
+title: project2
 topic: machine_learning_and_data_science
-subtitle: Product 1 tagline here
 description: This is a product description
 product_code: ABC124
 layout: resume
@@ -15,6 +14,7 @@ features:
     - label: Available in multiple sizes
       icon: fa-fighter-jet
 rating: 3
+permalink: /projects/project2/
 ---
 
 This is the content about the product.
