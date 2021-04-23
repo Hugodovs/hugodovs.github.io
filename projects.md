@@ -254,7 +254,7 @@ permalink: /projects/
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="/projects/project1/"></a>
+                    <a href="legacy_of_reality"></a>
                     <div class="h4">Realms of Existance</div>
                     <p>RPG Universe</p>
                   </figcaption>
