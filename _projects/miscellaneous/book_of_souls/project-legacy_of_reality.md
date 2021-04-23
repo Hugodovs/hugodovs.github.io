@@ -32,7 +32,7 @@ permalink: /projects/legacy_of_reality/
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="legacy_of_reality"></a>
+                    <a href="characters"></a>
                     <div class="h4">Characters</div>
                   </figcaption>
                 </figure>
