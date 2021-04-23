@@ -2,7 +2,7 @@
 title: project-legacy_of_reality
 topic: miscellaneous
 layout: only_header_and_footer
-permalink: /projects/legacy_of_reality/
+permalink: /projects/the_book_of_souls/
 ---
 
 
@@ -30,7 +30,7 @@ permalink: /projects/legacy_of_reality/
           <div class="row">
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality.jpg" alt="Image"/>
+                <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-characters.jpg" alt="Image"/>
                   <figcaption>
                     <a href="characters"></a>
                     <div class="h4">Characters</div>
@@ -40,7 +40,7 @@ permalink: /projects/legacy_of_reality/
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-world_map.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="../404.html"></a>
+                    <a href="regions"></a>
                     <div class="h4">Regions</div>
                   </figcaption>
                 </figure>
@@ -50,7 +50,7 @@ permalink: /projects/legacy_of_reality/
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect"><img src="/assets/images/project-legacy_of_reality-lore.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="../404.html"></a>
+                    <a href="lore"></a>
                     <div class="h4">Lore</div>
                   </figcaption>
                 </figure>
@@ -68,7 +68,5 @@ permalink: /projects/legacy_of_reality/
         </div>
       </div>
     </div>
-
-
   </div>
 </div>
