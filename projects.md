@@ -9,7 +9,7 @@ permalink: /projects/
     <div class="row">
       <div class="col-md-12 ml-auto mr-auto">
         <div class="h1 text-center mb-4 title" style="text-align: left;">
-          Machine Learning and Data Science
+          Projects
         </div>
         <div class="nav-align-center">
           <ul class="nav nav-pills nav-pills-primary" role="tablist">
@@ -26,21 +26,21 @@ permalink: /projects/
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect">
-                  <img src="/assets/images/working_in_progress.jpg" alt="Image"/>
+                  <img src="/assets/images/project-competitive_programming_problems.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="../404.html"></a>
-                    <div class="h4">TODO Project</div>
-                    <p>Coming Soon</p>
+                    <a href="competitive_programing_problems"></a>
+                    <div class="h4">Competitive Programming Problems</div>
+                    <p>C/C++ and Python</p>
                   </figcaption>
                 </figure>
               </div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect">
-                  <img src="/assets/images/working_in_progress.jpg" alt="Image"/>
+                  <img src="/assets/images/project-legacy_of_reality.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="../404.html"></a>
-                    <div class="h4">TODO Project</div>
-                    <p>Coming Soon</p>
+                    <a href="the_book_of_souls"></a>
+                    <div class="h4">The Book of Souls</div>
+                    <p>RPG Universe</p>
                   </figcaption>
                 </figure>
               </div>
@@ -48,11 +48,11 @@ permalink: /projects/
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect">
-                  <img src="/assets/images/working_in_progress.jpg" alt="Image"/>
+                  <img src="/assets/images/project-game_development.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="../404.html"></a>
-                    <div class="h4">TODO Project</div>
-                    <p>Coming Soon</p>
+                    <a href="game_development"></a>
+                    <div class="h4">Game Development</div>
+                    <p>Pygame and Unity Engine</p>
                   </figcaption>
                 </figure>
               </div>
@@ -120,7 +120,7 @@ permalink: /projects/
 </div>
 
 
-<div class="section" id="portfolio">
+<!--div class="section" id="portfolio">
   <div class="container">
     <div class="row">
       <div class="col-md-6 ml-auto mr-auto">
@@ -295,4 +295,4 @@ permalink: /projects/
       </div>
     </div>
   </div>
-</div>
+</div-->
