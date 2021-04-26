@@ -28,17 +28,38 @@ permalink: /projects/competitive_programing_problems/
           <tbody>
             <tr>
               <th scope="row">1</th>
-              <td>URI Online Judge</td>
-              <td> <a href="https://www.spoj.com/problems/TEST/" style="color:#0000FF;">TEST</a></td>
-              <td> <a href="https://www.spoj.com/problems/TEST/" style="color:#0000FF;">Link</a></td>
-              <td> <a href="https://www.spoj.com/problems/TEST/" style="color:#0000FF;">Link</a></td>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/4/A" style="color:#0000FF;">Watermelon</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/1_4A_Watermelon.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
             </tr>
             <tr>
               <th scope="row">2</th>
-              <td>SPOJ</td>
-              <td> <a href="https://www.spoj.com/problems/TEST/" style="color:#0000FF;">The Bytelandian Cryptographer (Act IV)</a></td>
-              <td> <a href="https://www.spoj.com/problems/TEST/" style="color:#0000FF;">Link</a></td>
-              <td> <a href="https://www.spoj.com/problems/TEST/" style="color:#0000FF;">Link</a></td>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/71/A" style="color:#0000FF;">Way Too Long Words</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/2_71A_WayTooLongWords.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/231/A" style="color:#0000FF;">Team</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/3_231A_Team.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/158/A" style="color:#0000FF;">Next Round</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/4_158A_NextRound.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">5</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/50/A" style="color:#0000FF;">Domino piling</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/5_50A_DominoPiling.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
             </tr>
           </tbody>
         </table>
