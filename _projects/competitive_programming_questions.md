@@ -61,6 +61,41 @@ permalink: /projects/competitive_programing_problems/
               <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/5_50A_DominoPiling.cpp" style="color:#0000FF;">Link</a></td>
               <td> <a href="" style="color:#0000FF;">-</a></td>
             </tr>
+            <tr>
+              <th scope="row">6</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/282/A" style="color:#0000FF;">Bit++</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/6_282A_Bit%2B%2B.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">7</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/112/A" style="color:#0000FF;">Petya and Strings </a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/7_112A_PetyaAndStrings.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">8</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/263/A" style="color:#0000FF;">Beautiful Matrix</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/8_263A_BeautifulMatrix.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">9</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/339/A" style="color:#0000FF;">Helpful Maths</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/9_339A_HelpfulMaths.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">10</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/281/A" style="color:#0000FF;">Word Capitalization </a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/10_281A_WordCapitalization.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
           </tbody>
         </table>
       </div>
