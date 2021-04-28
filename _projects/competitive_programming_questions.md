@@ -96,6 +96,13 @@ permalink: /projects/competitive_programing_problems/
               <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/10_281A_WordCapitalization.cpp" style="color:#0000FF;">Link</a></td>
               <td> <a href="" style="color:#0000FF;">-</a></td>
             </tr>
+            <tr>
+              <th scope="row">11</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/266/A" style="color:#0000FF;">Stones on the Table</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/11_266A_StonesOnTheTable.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
           </tbody>
         </table>
       </div>
