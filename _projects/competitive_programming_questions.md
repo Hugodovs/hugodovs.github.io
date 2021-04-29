@@ -103,6 +103,69 @@ permalink: /projects/competitive_programing_problems/
               <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/11_266A_StonesOnTheTable.cpp" style="color:#0000FF;">Link</a></td>
               <td> <a href="" style="color:#0000FF;">-</a></td>
             </tr>
+            <tr>
+              <th scope="row">12</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/236/A" style="color:#0000FF;">Boy or Girl</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/12_236A_BoyOrGirl.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">13</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/546/A" style="color:#0000FF;">Soldier and Bananas</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/13_546A_SoldierAndBananas.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">14</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/791/A" style="color:#0000FF;">Bear and Big Brother</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/14_791A_BearAndBigBrother.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">15</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/977/A" style="color:#0000FF;">Wrong Subtraction</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/15_977A_WrongSubtraction.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">16</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/617/A" style="color:#0000FF;">Elephant</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/16_617A_Elephant.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">17</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/116/A" style="color:#0000FF;">Tram</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/17_116A_Tram.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">18</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/59/A" style="color:#0000FF;">Word</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/18_59A_Word.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">19</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/266/B" style="color:#0000FF;">Queue at the School</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/19_266B_QueueAtTheSchool.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">20</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/110/A" style="color:#0000FF;">Nearly Lucky Number</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/20_110A_NearlyLuckyNumber.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
           </tbody>
         </table>
       </div>
