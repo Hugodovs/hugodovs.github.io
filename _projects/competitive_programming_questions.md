@@ -166,6 +166,78 @@ permalink: /projects/competitive_programing_problems/
               <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/20_110A_NearlyLuckyNumber.cpp" style="color:#0000FF;">Link</a></td>
               <td> <a href="" style="color:#0000FF;">-</a></td>
             </tr>
+            <tr>
+              <th scope="row">21</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/41/A" style="color:#0000FF;">Translation</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/21_41A_Translation.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">22</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/734/A" style="color:#0000FF;">Anton and Danik</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/22_734A_AntonAndDanik.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">23</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/271/A" style="color:#0000FF;">Beautiful Year</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/23_771A_BeautifulYear.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">24</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/677/A" style="color:#0000FF;">Vanya and Fence</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/24_677A_VanyaAndFence.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">25</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/467/A" style="color:#0000FF;">George and Accommodation</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/25_467A_GeorgeAndAccommodation.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">26</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/136/A" style="color:#0000FF;">Presents</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/26_136A_Presents.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">27</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/344/A" style="color:#0000FF;">Magnets</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/27_344A_Magnets.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">28</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/1030/A" style="color:#0000FF;">In Search of an Easy Problem</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/28_1030A_InSearchOfAnEasyProblem.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">29</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/705/A" style="color:#0000FF;">Hulk</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/29_705A_Hulk.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+            <tr>
+              <th scope="row">30</th>
+              <td>codeforces</td>
+              <td> <a href="https://codeforces.com/problemset/problem/486/A" style="color:#0000FF;">Calculating Function</a></td>
+              <td> <a href="https://github.com/Hugodovs/competitive_programming_problems/blob/main/codeforces/rating_800/30_486A_CalculatingFunction.cpp" style="color:#0000FF;">Link</a></td>
+              <td> <a href="" style="color:#0000FF;">-</a></td>
+            </tr>
+
+
           </tbody>
         </table>
       </div>
