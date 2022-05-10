@@ -14,10 +14,15 @@ li {
       <div class="row">
         <div class="col-lg-6 col-md-12">
           <div class="card-body">
-            <div class="h4 mt-0 title">About</div>
-            <p>Hi! I am Hugo! I'm a machine learning scientist, software engineer, and data scientist.</p>
-            <p>I have a bachelor's degree in computer science and a master's in artificial intelligence. The truth is, I love data, and that's what I'm always searching for in every problem that I face. I do believe that nearly any human decision would be better if we believe in data. </p>
-            <p>In my spare time, I enjoy having philosophical conversations, listening to video game songs, and learning certain meaningless things like typing quicker.</p>
+            <div class="h4 mt-0 title">Introduction</div>
+              <p>Hi! Hello and welcome to my website! Hugo is my name!</p>
+              <p>You can find some of my blog posts <a href="/projects" style="text-decoration: underline;">here</a>. In addition, you can check out or contribute to any of my projects by clicking <a href="/projects" style="text-decoration: underline;">here</a>.</p>
+              <hr>
+              <p>I am a passionate <b>computer scientist</b> currently working in <b>computer vision systems</b>. I have 2+ years of work experience as a <b>machine learning scientist, data scientist, and software engineer</b>. Besides, I often work with <b>game development</b>.</p>
+              <p>I successfully achieved my <b>master's degree in Machine Learning from Université Laval (Quebec)</b> and my <b>bachelor's degree in Computer Science from the Federal University of Rio de Janeiro (Brazil)</b>.</p>
+              <hr>
+              <p>Regardless of the current project, I believe that reasoning is a powerful weapon against almost any human error. If we want to keep building a great world for humanity, perhaps reasoning can be the ultimate answer. And that's why I'm always looking for data to help me solve every problem I face. </p>
+              <p>In my spare time, I enjoy philosophical discussions, listening to video game music, and learning meaningless things like typing faster.</p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
@@ -401,6 +406,5 @@ li {
     </div>
   </div>
 </div>
-
 
 
