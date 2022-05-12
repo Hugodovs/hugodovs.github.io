@@ -56,71 +56,6 @@ li {
     </div>
   </div>
 </div>
-<!-- Selected Publication -->
-<div class="section" id="reference">
-  <div class="container cc-reference">
-    <div class="h4 mb-4 text-center title">Selected Publications</div>
-      <div class="" data-aos="zoom-in">
-        <div id="selectedPapersIndicator" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#selectedPapersIndicator" data-slide-to="0" class="active"></li>
-            <li data-target="#selectedPapersIndicator" data-slide-to="1"></li>
-          </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <div class="row">
-                <div class="col-lg-2 col-md-2 cc-reference-header" style="text-align:center;"><img src="/assets/images/about_selectedpaper_1.png" alt="Image"/>
-                  <div style="text-align:center;" class="h5">MAIS</div>
-                  <p style="text-align:center;" class="category">2021</p>
-                </div>
-                <div class="col-lg-10 col-md-10" style="text-align:left;">
-                  <p style="font-weight:bold;"> 
-                    <a target="_blank" style="color: black; cursor: pointer;" href="https://arxiv.org/abs/2103.03526">Meta Learning Black-Box Population-Based Optimizers</a>
-                  </p> 
-                  <p> 
-                       <u>Hugo Siqueira Gomes </u>, Benjamin Léger, Christian Gagné
-                  </p> 
-                  <p> 
-                    The no free lunch theorem states that no model is better 
-                    suited to every problem. A question that arises from this 
-                    is how to design methods that propose optimizers tailored 
-                    to specific problems achieving state-of-the-art 
-                    performance. This paper addresses this issue by proposing 
-                    the use of meta-learning ...
-                  </p> 
-                </div>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="row">
-                <div class="col-lg-2 col-md-2 cc-reference-header" style="text-align:center;"><img src="/assets/images/about_selectedpaper_2.png" alt="Image"/>
-                  <div style="text-align:center;" class="h5">ICML UDL</div>
-                  <p style="text-align:center;" class="category">2019</p>
-                </div>
-                <div class="col-lg-10 col-md-10" style="text-align:left;">
-                  <p style="font-weight:bold;"> 
-                    <a target="_blank" style="color: black; cursor: pointer;" href="https://sites.google.com/view/udlworkshop2019/accepted-papers">
-                      Unsupervised Temperature Scaling: Post-Processing Unsupervised Calibration of Deep Models Decisions
-                    </a>
-                  </p> 
-                  <p> 
-                       Azadeh Sadat Mozafari, <u>Hugo Siqueira Gomes</u> , Wilson Leão, Christian Gagné
-                  </p> 
-                  <p> 
-                    The great performances of deep learning are undeniable, 
-                    with impressive results over a wide range of tasks. 
-                    However, the output confidence of these models is usually 
-                    not well-calibrated, which can be an issue for applications
-                     where confidence ...
-                  </p> 
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-  </div>
-</div>
 <!-- Work Experience -->
 <div class="section" id="experience">
   <div class="container cc-experience">
@@ -141,10 +76,12 @@ li {
               <div class="h5">Vancouver, Canada</div>
             </div>
             <p>
-              • Implemented a computer vision pipeline (data labeling for 3D segmentation, training and evaluating model) for point cloud classification using PointCNN.<br>
-              • Managed pick and place robotic solution using Universal Robots and Realsense/Kinect/Ensenso cameras.<br>
-              • Implemented production-level QT desktop application for robotic tool.<br>
-              • Technologies: Open3D, Pytorch, Universal Robots, Azure Kinect DK, Computer Vision<br>
+              <ul>
+                <li>Implemented a computer vision pipeline (data labeling for 3D segmentation, training and evaluating model) for point cloud classification using PointCNN.</li>
+                <li>Guided a pick and place robotic solution using Universal Robots and Realsense/Kinect/Ensenso cameras.</li>
+                <li>Implemented a production-level QT desktop application for robotic tool.</li>
+                <li>Technologies: Open3D, Pytorch, Universal Robots, Azure Kinect DK, Computer Vision</li>
+              </ul>
             </p>
           </div>
         </div>
@@ -166,10 +103,12 @@ li {
               <div class="h5">Vancouver, Canada</div>
             </div>
             <p>
-              • Implemented hand tracking system to work in low-light conditions using multiples RealSense cameras.<br>
-              • Implemented pose estimation system and OSC server in Unity Engine.<br>
-              • Technologies: Machine learning, Computer Vision, Unity Engine, RealSense, OSC, Python, and C#.<br>
-              </p>
+              <ul>
+                <li>Implemented a hand tracking system to work in low-light conditions using numerous realsense cameras.</li>
+                <li>Implemented a pose estimation system and OSC server in Unity Engine.</li>
+                <li>Technologies: Computer Vision, Machine learning, Unity Engine, Realsense Camera, OSC, Python, and C#.</li>
+              </ul>
+            </p>
           </div>
         </div>
       </div>
@@ -190,15 +129,18 @@ li {
               <div class="h5">Nevada, USA</div>
             </div>
             <p>
-              • Implemented a manageable infrastructure for image processing in cloud servers, which reduced total process time by 30%.
-              • Automatized expensive and time-consuming tasks (10TB training data for annotation) using SOTA deep learning methods.
-              • Presented key findings for end customers to the team leader and wrote an executive report.
-              • Technologies: Deep Learning, Computer Vision, AWS, Docker, and Python.
+              <ul>
+                <li>Implemented a manageable infrastructure for image processing in cloud servers, which reduced total process time by 30%.</li>
+                <li>Automated expensive and time-consuming tasks (10TB training data for annotation) using SOTA deep learning methods.</li>
+                <li>Presented key findings for end customers to the team leader and wrote an executive report.</li>
+                <li>Technologies: Deep Learning, Computer Vision, AWS, Docker, and Python.</li>
+              </ul>
             </p>
           </div>
         </div>
       </div>
     </div>
+    <!-- General Electric -->
     <div class="card">
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
@@ -214,16 +156,20 @@ li {
               <div class="h5">Rio de Janeiro, Brazil</div>
             </div>
             <p>
-              • Deployed 100+ wearable applications that gather training data and send to docker containers.<br>
-              • Gathered and Wrangled 1TB data for Human Activity Recognition system that was previously inaccessible datasets.<br>
-              • Improved 50% accuracy and 400% speed for predictions to end clients to track impact at real-time.<br>
-              • Technologies: Deep learning, Time Series, Docker, Python, C++ and Javascript</p>
+              <ul>
+                <li>Deployed 100+ wearable applications that gather training data and send to docker containers.</li>
+                <li>Gathered and Wrangled 1TB data for Human Activity Recognition system that was previously inaccessible datasets.</li>
+                <li>Improved 50% accuracy and 400% speed for predictions to end clients to track impact at real-time.</li>
+                <li>Technologies: Deep learning, Time Series, Docker, Python, C++ and Javascript.</li>
+              </ul>
+            </p>
           </div>
         </div>
       </div>
     </div>
   </div>
 </div>
+<!-- Education and Honors -->
 <div class="section">
   <div class="container cc-education">
     <div class="h4 text-center mb-4 title">Education and Honors</div>
@@ -292,9 +238,72 @@ li {
       </div>
     </div>
   </div>
-
-
-
+<!-- Selected Publication -->
+<div class="section" id="reference">
+  <div class="container cc-reference">
+    <div class="h4 mb-4 text-center title">Selected Publications</div>
+      <div class="" data-aos="zoom-in">
+        <div id="selectedPapersIndicator" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#selectedPapersIndicator" data-slide-to="0" class="active"></li>
+            <li data-target="#selectedPapersIndicator" data-slide-to="1"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-lg-2 col-md-2 cc-reference-header" style="text-align:center;"><img src="/assets/images/about_selectedpaper_1.png" alt="Image"/>
+                  <div style="text-align:center;" class="h5">MAIS</div>
+                  <p style="text-align:center;" class="category">2021</p>
+                </div>
+                <div class="col-lg-10 col-md-10" style="text-align:left;">
+                  <p style="font-weight:bold;"> 
+                    <a target="_blank" style="color: black; cursor: pointer;" href="https://arxiv.org/abs/2103.03526">Meta Learning Black-Box Population-Based Optimizers</a>
+                  </p> 
+                  <p> 
+                       <u>Hugo Siqueira Gomes </u>, Benjamin Léger, Christian Gagné
+                  </p> 
+                  <p> 
+                    The no free lunch theorem states that no model is better 
+                    suited to every problem. A question that arises from this 
+                    is how to design methods that propose optimizers tailored 
+                    to specific problems achieving state-of-the-art 
+                    performance. This paper addresses this issue by proposing 
+                    the use of meta-learning ...
+                  </p> 
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-lg-2 col-md-2 cc-reference-header" style="text-align:center;"><img src="/assets/images/about_selectedpaper_2.png" alt="Image"/>
+                  <div style="text-align:center;" class="h5">ICML UDL</div>
+                  <p style="text-align:center;" class="category">2019</p>
+                </div>
+                <div class="col-lg-10 col-md-10" style="text-align:left;">
+                  <p style="font-weight:bold;"> 
+                    <a target="_blank" style="color: black; cursor: pointer;" href="https://sites.google.com/view/udlworkshop2019/accepted-papers">
+                      Unsupervised Temperature Scaling: Post-Processing Unsupervised Calibration of Deep Models Decisions
+                    </a>
+                  </p> 
+                  <p> 
+                       Azadeh Sadat Mozafari, <u>Hugo Siqueira Gomes</u> , Wilson Leão, Christian Gagné
+                  </p> 
+                  <p> 
+                    The great performances of deep learning are undeniable, 
+                    with impressive results over a wide range of tasks. 
+                    However, the output confidence of these models is usually 
+                    not well-calibrated, which can be an issue for applications
+                     where confidence ...
+                  </p> 
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+<!-- > Skills <-->
 <div class="section" id="skill">
   <div class="container">
     <div class="h4 text-center mb-4 title">Skills</div>
@@ -506,18 +515,3 @@ li {
     </div>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
