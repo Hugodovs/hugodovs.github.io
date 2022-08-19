@@ -58,11 +58,11 @@ permalink: /projects/
               </div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <figure class="cc-effect">
-                  <img src="/assets/images/working_in_progress.jpg" alt="Image"/>
+                  <img src="/assets/images/project-password_generator.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="../404.html"></a>
-                    <div class="h4">TODO Project</div>
-                    <p>Coming Soon</p>
+                    <a href="password_generator"></a>
+                    <div class="h4">Master Password Generator</div>
+                    <p>HASH and base85 paswword generator</p>
                   </figcaption>
                 </figure>
               </div>

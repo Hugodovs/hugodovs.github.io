@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  {% include head_with_pyscript.html %}
+  <body id="top">
+    {% include header.html %}
+    <div class="page-content">
+      <div>
+        {{content}}
+      </div>
+    </div>
+    {% include footer.html %}
+    {% include footer-scripts.html %}
+
+    <py-script>
+        from js import document
+        from pyodide import create_proxy
+        
+        import base64
+        import hashlib
+        import string
+        import random
+        
+        def get_password(*args, **kwargs):
+        
+            website = Element('website').value
+            master_password = Element('masterPassword').value
+        
+            value = f'{master_password}:{website}'
+            hash = hashlib.sha512(value.encode()).digest()
+            password = base64.b85encode(hash).decode()[:16]
+        
+            Element('output').element.innerText = str(password)
+        
+    </py-script>
+  </body>
+</html>
+
