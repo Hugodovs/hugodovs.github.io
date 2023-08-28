@@ -377,12 +377,6 @@ li {
   </div>
 </div>
 
-
-
-
-
-
-
 <div class="section" id="portfolio">
   <div class="container">
     <div class="row">
