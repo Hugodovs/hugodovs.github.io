@@ -38,8 +38,8 @@ permalink: /projects/
                 <figure class="cc-effect">
                   <img src="/assets/images/project-legacy_of_reality.jpg" alt="Image"/>
                   <figcaption>
-                    <a href="the_book_of_souls"></a>
-                    <div class="h4">The Book of Souls</div>
+                    <a href="https://memoriesofzattera.github.io/en/"></a>
+                    <div class="h4">Memories Of Zattera</div>
                     <p>RPG Universe</p>
                   </figcaption>
                 </figure>
