@@ -17,13 +17,12 @@ li {
           <div class="card-body">
             <div class="h4 mt-0 title">Introduction</div>
               <p>Hi! Hello and welcome to my website! I am Hugo!</p>
-              <p>You can find some of my blog posts <a href="/projects" style="text-decoration: underline;">here</a>. In addition, you can check out or contribute to any of my projects by clicking <a href="/projects" style="text-decoration: underline;">here</a>.</p>
+              <p>You can find some of my blog posts <a href="/blog" style="text-decoration: underline;">here</a>. In addition, you can check out or contribute to any of my projects by clicking <a href="/projects" style="text-decoration: underline;">here</a>.</p>
               <hr>
-              <p>I am a passionate <b>computer scientist</b> currently working in <b>computer vision systems</b>. I have 2+ years of work experience as a <b>machine learning scientist, data scientist, and software engineer</b>. In addition, I often work with <b>game development</b>.</p>
+              <p>I am a passionate <b>computer scientist</b> currently working in <b>computer vision systems</b>. I have 5+ years of work experience as a <b>machine learning scientist, data scientist, and software engineer</b>. In addition, I often work with <b>game development</b>.</p>
               <p>I successfully achieved my <b>Master's degree in Machine Learning from Université Laval (Quebec)</b> and my <b>Bachelor's degree in Computer Science from the Federal University of Rio de Janeiro (Brazil)</b>.</p>
               <hr>
-              <p>Regardless of the current project, I believe that reasoning is a powerful weapon against almost any human error. If we want to keep building a great world for humanity, perhaps reasoning can be the ultimate answer. And that's why I'm always looking for data to help me solve every problem I face. </p>
-              <p>In my spare time, I enjoy philosophical discussions, listening to video game music, and learning meaningless things like typing faster.</p>
+              <p>As an engineer with a <b>love for building intelligent machines</b>., I feel that <b>reasoning</b>. is an effective means for <b>minimizing most human errors</b>. In every project, I remain <b>committed to understanding the data</b> and using it to solve difficult tasks. I'm always looking for ways to grow, not just in my career, but also in <b>philosophical discussions</b> and <b>curiosity-driven learning</b>. My ultimate goal is to create a world in which <b>technology enhances human capabilities</b>, and I do believe that <b>logic with data</b>, is the key to achieving that.</p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
@@ -49,6 +48,10 @@ li {
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Language:</strong></div>
               <div class="col-sm-8">English, Portuguese</div>
+            </div>
+            <hr>
+            <div class="row mt-3">
+              <p>In my spare time, I enjoy philosophical discussions, listening to video game music, and learning meaningless things like typing faster.</p>
             </div>
           </div>
         </div>
