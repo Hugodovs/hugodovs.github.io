@@ -19,10 +19,10 @@ li {
               <p>Hi! Hello and welcome to my website! I am Hugo!</p>
               <p>You can find some of my blog posts <a href="/blog" style="text-decoration: underline;">here</a>. In addition, you can check out or contribute to any of my projects by clicking <a href="/projects" style="text-decoration: underline;">here</a>.</p>
               <hr>
-              <p>I am a passionate <b>computer scientist</b> currently working in <b>computer vision systems</b>. I have 5+ years of work experience as a <b>machine learning scientist, data scientist, and software engineer</b>. In addition, I often work with <b>game development</b>.</p>
-              <p>I successfully achieved my <b>Master's degree in Machine Learning from Université Laval (Quebec)</b> and my <b>Bachelor's degree in Computer Science from the Federal University of Rio de Janeiro (Brazil)</b>.</p>
+              <p> I am a <b>computer scientist</b> currently working in <b>computer vision systems</b>. I have 5+ years of work experience as a <b>machine learning scientist, data scientist, and software engineer</b>. In addition, I frequently work in the field of <b>game development</b>.</p>
+              <p>I successfully achieved my <b>Master's degree in Electrical and Computer Engineering, Machine Learning from Université Laval (Quebec)</b> and my <b>Bachelor's degree in Computer Science from the Federal University of Rio de Janeiro (Brazil)</b>.</p> 
               <hr>
-              <p>As an engineer with a <b>love for building intelligent machines</b>., I feel that <b>reasoning</b>. is an effective means for <b>minimizing most human errors</b>. In every project, I remain <b>committed to understanding the data</b> and using it to solve difficult tasks. I'm always looking for ways to grow, not just in my career, but also in <b>philosophical discussions</b> and <b>curiosity-driven learning</b>. My ultimate goal is to create a world in which <b>technology enhances human capabilities</b>, and I do believe that <b>logic with data</b>, is the key to achieving that.</p>
+              <p> My passion for building intelligent machines tells me that reasoning is an effective means for minimizing most human errors. In every project, I remain committed to understanding the data and using it to solve difficult tasks. I'm always looking for ways to grow, not just in my career, but also in philosophical discussions and curiosity-driven learning. My ultimate goal is to create a world in which technology enhances human capabilities, and I do believe that logic with data, is the key to achieving that.</p>           
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
@@ -32,10 +32,6 @@ li {
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
               <div class="col-sm-8">hugodovs@gmail.com</div>
-            </div>
-            <div class="row mt-3">
-              <div class="col-sm-4"><strong class="text-uppercase">Mobile Phone:</strong></div>
-              <div class="col-sm-8">+1 (581) 980-5854</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Nationality:</strong></div>
@@ -51,7 +47,7 @@ li {
             </div>
             <hr>
             <div class="row mt-3">
-              <p>In my spare time, I enjoy philosophical discussions, listening to video game music, and learning meaningless things like typing faster.</p>
+              <p>In my spare time, I enjoy having philosophical discussions, listening to video game music, and learning meaningless things like typing faster.</p>
             </div>
           </div>
         </div>
@@ -59,17 +55,48 @@ li {
     </div>
   </div>
 </div>
+
+
 <!-- Work Experience -->
 <div class="section" id="experience">
   <div class="container cc-experience">
     <div class="h4 text-center mb-4 title">Work Experience</div>
+    <!-- LMI Technologies -->
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <div class="h5">LMI Technologies</div>
+            <p>July 2022 - Currently</p>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div style="column-count: 2;">
+              <div class="h5">Vision Software Engineer</div>
+              <div class="h5">Vancouver, Canada</div>
+            </div>
+            <p>
+              <ul>
+                <li>Development of 2D and 3D AI tools in a vision software forinline measurement and inspection solutions.</li>
+                <li>Development of smart camera projects with 2D/3D tools and calibration methods.</li>
+                <li>Designed and deployed a real-time Anomaly Detection pipeline, leveraging deep learning to streamline workflow for labeling, training, and testing models</li>
+                <li>Ported and optimized vision tools pipeline to a vision software of 3D smart sensors, using C, C++, and Python.</li>
+                <li>Developed GoAIK module, enabling integration between with GoPxL and Cognex, a leading machine vision software, improving data accuracy and processing time.</li>
+                <li>Technologies: C, C++, Python, Deep Learning, Anomaly Detection, Computer Vision, Machine Learning.</li>
+              </ul>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>    
     <!-- Nexera Robotics -->
     <div class="card">
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
             <div class="h5">Nexera Robotics</div>
-            <p>Oct 2021 - Currently</p>
+            <p>Oct 2021 - July 2022</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -80,10 +107,10 @@ li {
             </div>
             <p>
               <ul>
+                <li>Implemented a pick and place robotic solution using Universal Robots and Realsense/Kinect/Ensenso cameras.</li>
                 <li>Implemented a computer vision pipeline (data labeling for 3D segmentation, training and evaluating model) for point cloud classification using PointCNN.</li>
-                <li>Guided a pick and place robotic solution using Universal Robots and Realsense/Kinect/Ensenso cameras.</li>
-                <li>Implemented a production-level QT desktop application for robotic tool.</li>
-                <li>Technologies: Open3D, Pytorch, Universal Robots, Azure Kinect DK, Computer Vision</li>
+                <li>Implemented a production-level QT desktop application for a robotic tool.</li>
+                <li>Technologies: Reinforcement learning, Open3D, Pytorch, Universal Robots, Computer Vision.</li>
               </ul>
             </p>
           </div>
@@ -109,7 +136,7 @@ li {
               <ul>
                 <li>Implemented a hand tracking system to work in low-light conditions using numerous realsense cameras.</li>
                 <li>Implemented a pose estimation system and OSC server in Unity Engine.</li>
-                <li>Technologies: Computer Vision, Machine learning, Unity Engine, Realsense Camera, OSC, Python, and C#.</li>
+                <li>Technologies: Machine learning, Computer Vision, Unity Engine, RealSense, OSC, Python, and C#.</li>
               </ul>
             </p>
           </div>
@@ -133,8 +160,8 @@ li {
             </div>
             <p>
               <ul>
-                <li>Implemented a manageable infrastructure for image processing in cloud servers, which reduced total process time by 30%.</li>
-                <li>Automated expensive and time-consuming tasks (10TB training data for annotation) using SOTA deep learning methods.</li>
+                <li>Implemented a manageable infrastructure forimage processing in cloud servers reducing process time by 30%.</li>
+                <li>Automatized time-consuming tasks (10TB training data for annotation) using SOTA deep learning methods.</li>
                 <li>Presented key findings for end customers to the team leader and wrote an executive report.</li>
                 <li>Technologies: Deep Learning, Computer Vision, AWS, Docker, and Python.</li>
               </ul>
@@ -161,9 +188,8 @@ li {
             <p>
               <ul>
                 <li>Deployed 100+ wearable applications that gather training data and send to docker containers.</li>
-                <li>Gathered and Wrangled 1TB data for Human Activity Recognition system that was previously inaccessible datasets.</li>
-                <li>Improved 50% accuracy and 400% speed for predictions to end clients to track impact at real-time.</li>
-                <li>Technologies: Deep learning, Time Series, Docker, Python, C++ and Javascript.</li>
+                <li>Processed 1TB of previously inaccessible data for a Human Activity Recognition system, improving prediction accuracy by 50% and speed by 400% forreal-time client impact tracking.</li>
+                <li>Technologies: Deep Learning, Time Series, Docker, Python, C++, and Javascript.</li>
               </ul>
             </p>
           </div>
@@ -189,8 +215,8 @@ li {
             <div class="h5">M.Sc. in Electrical and Computer Engineering, Machine Learning</div>
             <p class="category">Laval University</p>
             <p> 
-              <ul>
-                <li><b>Thesis:</b> <a style='text-decoration:underline;' href='https://corpus.ulaval.ca/jspui/handle/20.500.11794/68764' target='_blank'>Meta Learning Population-Based Algorithms in Black-box Optimization</a><br></li>
+              <ul> 
+                <li><b>Thesis:</b> <a style='text-decoration:underline;' href="/files/msc_thesis_hugo_siqueira_gomes.pdf" target='_blank' download onclick="window.location.href='https://corpus.ulaval.ca/entities/publication/89594fc4-1366-4fb1-9c47-4adaee0df49e';">Meta Learning Population-Based Algorithms in Black-box Optimization</a><br></li>
                 <li><b>Fellowships:</b></li>
                   <ul>
                     <li><a style='text-decoration:underline;' href='https://iid.ulaval.ca/en/about/' target='_blank'>Institute Intelligence and Data (IID)</a></li>
@@ -199,9 +225,8 @@ li {
                 <li><b>Relevant Coursework:</b></li>
                   <ul>
                     <li>Deep Learning</li>
-                    <li>Statistical Learning</li>
-                    <li>Reinforcement Learning </li>
-                    <li>Big Data Analytics</li>
+                    <li>Deep Reinforcement Learning</li>
+                    <li>Statistical Learning Theory </li>
                   </ul>
               </ul>
             </p>
@@ -232,7 +257,7 @@ li {
                 <li><b>Teach Assistant (TA):</b></li>
                   <ul>
                     <li>Data Structures and Algorithms</li>
-                    <li>Formal Languages</li>
+                    <li>Reinforcement Learning</li>
                   </ul>
               </ul>
             </p>
@@ -289,14 +314,14 @@ li {
                     </a>
                   </p> 
                   <p> 
-                       Azadeh Sadat Mozafari, <u>Hugo Siqueira Gomes</u> , Wilson Leão, Christian Gagné
+                      Azadeh Sadat Mozafari, <u>Hugo Siqueira Gomes</u> , Wilson Leão, Christian Gagné
                   </p> 
                   <p> 
                     The great performances of deep learning are undeniable, 
                     with impressive results over a wide range of tasks. 
                     However, the output confidence of these models is usually 
                     not well-calibrated, which can be an issue for applications
-                     where confidence ...
+                    where confidence ...
                   </p> 
                 </div>
               </div>
@@ -380,135 +405,3 @@ li {
   </div>
 </div>
 
-<div class="section" id="portfolio">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 ml-auto mr-auto">
-        <div class="h4 text-center mb-4 title">Selected Projects</div>
-        <div class="nav-align-center">
-          <ul class="nav nav-pills nav-pills-primary" role="tablist">
-            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#web-development" role="tablist"><i class="fa fa-laptop" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#graphic-design" role="tablist"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Photography" role="tablist"><i class="fa fa-camera" aria-hidden="true"></i></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="tab-content gallery mt-5">
-      <div class="tab-pane active" id="web-development">
-        <div class="ml-auto mr-auto">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="/assets/images/project-1.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Recent Project</div>
-                      <p>Web Development</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="/assets/images/project-2.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Startup Project</div>
-                      <p>Web Development</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="/assets/images/project-3.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Food Order Project</div>
-                      <p>Web Development</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="/assets/images/project-4.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Web Advertising Project</div>
-                      <p>Web Development</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="tab-pane" id="graphic-design" role="tabpanel">
-        <div class="ml-auto mr-auto">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-                  <figure class="cc-effect"><img src="/assets/images/graphic-design-1.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Triangle Pattern</div>
-                      <p>Graphic Design</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-                  <figure class="cc-effect"><img src="/assets/images/graphic-design-2.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Abstract Umbrella</div>
-                      <p>Graphic Design</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-                  <figure class="cc-effect"><img src="/assets/images/graphic-design-3.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Cube Surface Texture</div>
-                      <p>Graphic Design</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-                  <figure class="cc-effect"><img src="/assets/images/graphic-design-4.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Abstract Line</div>
-                      <p>Graphic Design</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="tab-pane" id="Photography" role="tabpanel">
-        <div class="ml-auto mr-auto">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-                  <figure class="cc-effect"><img src="/assets/images/photography-1.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Photoshoot</div>
-                      <p>Photography</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-                  <figure class="cc-effect"><img src="/assets/images/photography-3.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Wedding Photoshoot</div>
-                      <p>Photography</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-                  <figure class="cc-effect"><img src="/assets/images/photography-2.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Beach Photoshoot</div>
-                      <p>Photography</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-                  <figure class="cc-effect"><img src="/assets/images/photography-4.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Nature Photoshoot</div>
-                      <p>Photography</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
